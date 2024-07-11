@@ -7,9 +7,9 @@ Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos s√
 <div style="display: inline_block"><br/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/PYTHON-00CCFF?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-A42D00?style=for-the-badge&logo=oracle&logoColor=white">
-
     <br/>
 </div>
+<br/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIsaac41&layout=compact)
