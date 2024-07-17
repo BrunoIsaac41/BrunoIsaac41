@@ -2,7 +2,7 @@
 Olá! Sou Bruno Isaac, de 19 anos de idade e estou cursando ADS. Possuo um interesse igual tanto pelo desenvolvimento back-end quanto pelo front-end. Estou sempre em busca de conhecimento e apaixonado pela solução de problemas.
 
 ## Sobre Mim
-Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos sólidos em Python, estudando Java e bancos relacionais de dados. Tenho sede em aprender e sempre busco me aperfeiçoar.
+Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos sólidos em Python, estudando Java API RESfull. Tenho sede em aprender e sempre busco me aperfeiçoar.
 ## Conhecimentos
 <div style="display: inline_block"><br/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/PYTHON-407EB0?style=for-the-badge&logo=python&logoColor=white">
