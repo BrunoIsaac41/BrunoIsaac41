@@ -22,4 +22,3 @@ Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos s√
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-isaac-m-sansalone-37530827b/)
 
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Conecte-se comigo atrav√©s das plataformas acima e vamos trocar ideias!
