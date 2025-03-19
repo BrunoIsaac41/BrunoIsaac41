@@ -12,7 +12,7 @@ Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos s√
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIsaac41&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoIsaac41)
 
 ## Contato
 
