@@ -6,6 +6,7 @@ Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos s√
 <div style="display: inline_block"><br/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/PYTHON-407EB0?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/java-A42D00?style=for-the-badge&logo=oracle&logoColor=white">
+    <img align="center" alt="PHP" src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white">
     <br/>
 </div>
 <br/>
