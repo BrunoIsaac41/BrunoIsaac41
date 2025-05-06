@@ -1,5 +1,5 @@
 # Bruno Isaac Massocato Sansalone
-Olá! Sou Bruno Isaac, tenho 19 anos de idade e estou cursando ADS. Possuo afinidade com desenvolvimento back-end porém consigo desenvolver também front-end. Estou sempre buscando conhecimento e sou apaixonado pela solução de problemas.
+Olá! Sou Bruno Isaac, tenho 19 anos de idade e estou cursando ADS na PUC-PR. Possuo afinidade com desenvolvimento back-end porém consigo desenvolver também front-end. Estou sempre buscando conhecimento e sou apaixonado pela solução de problemas.
 ## Sobre Mim
 Atualmente, estou empenhado em Desenvolvimento back-end. Possuo conhecimentos sólidos em Python, PhP Laravel, Java. Tenho sede em aprender e sempre busco me aperfeiçoar.
 ## Conhecimentos
